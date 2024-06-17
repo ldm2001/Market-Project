@@ -4,3 +4,4 @@
     - Firebase 들어가서 프로젝트(Authentication, Database(Firebase), Storage, Hosting) 만들기
     - VSC 콘솔에서 셋팅 해주기
     - 페이지 구현 후 매물(Database), 회원(Authentication), 사진(Storage) 각각 잘 들어오는지 확인
+    - 문제점: 사진이 너무 늦게 업로드가 됨 
